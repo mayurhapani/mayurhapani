@@ -1,4 +1,9 @@
-🔭 I’m currently working on JavaScript
+<h1 align="center">Hi 👋, I'm Mayur Hapani</h1>
+<!-- <h3 align="center">A CSE Sophomore who loves exploring new field</h3> -->
+
+<img align="right" alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/e6427232957589.569a436f3d343.png">
+
+🔭 I’m currently working on [JavaScript](https://github.com/mayurhapani/javascript)
 
 🌱 I’m currently learning React
 
