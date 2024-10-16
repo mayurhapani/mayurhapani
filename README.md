@@ -3,7 +3,8 @@
 
 <img align="right" alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/e6427232957589.569a436f3d343.png">
 
-🔭 I’m currently working on [JavaScript](https://github.com/mayurhapani/javascript)
+🔭 I’m currently working at [SwiftRut Technologies](https://www.linkedin.com/company/swiftrut/)
+
 
 🌱 I’m currently learning React
 
@@ -45,6 +46,7 @@ nightking_21
 Languages and Tools:
 cplusplus html5 css3 bootstrap jquery javascript react--!>
 
+🔭 I’m currently working on [JavaScript](https://github.com/mayurhapani/javascript)
 
 <!--### Hi there 👋
 
