@@ -8,7 +8,7 @@
 
 🌱 I’m currently learning React
 
-📫 How to reach me hapanimayur@gmail.com
+📫 How to reach me mayur.hapani24@gmail.com
 
 ⚡ Fun fact I Think I'm Funny XD
 
